@@ -1,3 +1,5 @@
+测试可以本地运行
+
 # 后台管理系统 vue-admin-spa 1.0（qq交流群：645582193） #
 使用到的技术栈：vue + vue-resource + vue-router + vuex(spa必备) + element-ui + ES6 + webpack + npm 
 
